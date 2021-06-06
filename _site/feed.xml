@@ -1,17 +1,70 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-06-05T22:00:41+08:00</updated><id>/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2021/06/05/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-06-05T21:55:00+08:00</published><updated>2021-06-05T21:55:00+08:00</updated><id>/jekyll/update/2021/06/05/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2021/06/05/welcome-to-jekyll.html">&lt;p&gt;CHANGE You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/my-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/my-blog/" rel="alternate" type="text/html" /><updated>2021-06-06T10:42:55+08:00</updated><id>http://localhost:4000/my-blog/feed.xml</id><title type="html">Angelica Esposo</title><subtitle>I'll be talking about random stuff here.</subtitle><entry><title type="html">The First Step</title><link href="http://localhost:4000/my-blog/jekyll/update/2021/06/06/an-unexpected-journey.html" rel="alternate" type="text/html" title="The First Step" /><published>2021-06-06T09:48:00+08:00</published><updated>2021-06-06T09:48:00+08:00</updated><id>http://localhost:4000/my-blog/jekyll/update/2021/06/06/an-unexpected-journey</id><content type="html" xml:base="http://localhost:4000/my-blog/jekyll/update/2021/06/06/an-unexpected-journey.html">&lt;p&gt;In this post I’ll be writing about why I started learning programming and how I started. &lt;/p&gt;
 
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+&lt;p&gt;　You’re probably wondering why I thought my journey to web development was unexpected. As a background, I studied civil engineering student who is unhappy about my major, so I dropped out. Then, following aunt’s advice, I took a care-giving course so I can go to Canada and start all over again. Well.. guess what.. That plan got canceled too, and now I’m stuck at home with no idea what to do. That’s when I started self-studying as a hobby. I started with learning Japanese. A year passed and I’ve met good people through language exchange, but I still wanted to learn more, and that’s when I got the idea to start learning programming.&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I’ve always been interested in coding, and I always find building stuff fun. Why not build something with code, and that’s when I decided to start learning. Equipped with the discipline and good study habits I acquired in a year of self-studying, I took my first step. I asked for advice all over the internet and someone advised me to start with web development.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;I’m still beginner but  here are the resources I used to start my journey as a self-taught web developer:&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;h3 id=&quot;the-roadmap&quot;&gt;The Roadmap:&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://roadmap.sh/frontend&quot;&gt;https://roadmap.sh/frontend&lt;/a&gt;&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;learn-git&quot;&gt;Learn Git:&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=HVsySz-h9r4&quot;&gt;Git Command-Line Fundamentals&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">CHANGE You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;h3 id=&quot;free-online-courses&quot;&gt;Free online courses:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.freecodecamp.org/learn&quot;&gt;freeCodeCamp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theodinproject.com/&quot;&gt;The Odin Project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;resources&quot;&gt;Resources&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.com/search?channel=fs&amp;amp;client=ubuntu&amp;amp;q=javascript+info&quot;&gt;javascript.info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.w3schools.com/&quot;&gt;w3schools:&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/JavaScript&quot;&gt;javascript documentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;youtube-channels&quot;&gt;Youtube Channels:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA&quot;&gt;Traversy Media&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg&quot;&gt;The Net Ninja&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw&quot;&gt;Web Dev Simplified&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q&quot;&gt;Dev Ed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;communities&quot;&gt;Communities:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;freeCodeCamp forum&lt;/li&gt;
+  &lt;li&gt;The Odin Project’s discord channel&lt;/li&gt;
+  &lt;li&gt;Stack Overflow&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;subreddits&quot;&gt;Subreddits:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;r/learnprogramming&lt;/li&gt;
+  &lt;li&gt;r/webdev&lt;/li&gt;
+  &lt;li&gt;r/learnjavascript&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;also-checkout-this-free-course-in-coursera-about-learning&quot;&gt;Also checkout this free course in coursera about learning:&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.coursera.org/learn/learning-how-to-learn&quot;&gt;Learning How to Learn: Powerful mental tools to help you master tough subjects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Just like every journey there will be hardships. Learning a new skill can be frustrating, heck, I even asked myself if I’m smart enough to learn programming, but seeing myself improve day by day is enough to keep me going. I know I’m still on the early stage of my journey and I know that there will be even more harships that will come my way, but what matters is being persistent in learning. Take a rest if you need to, but never quit. Be patient with the results and one day you’ll be surprised how far you’ve come.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;learning-never-stops&quot;&gt;Learning never stops!&lt;/h1&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">In this post I’ll be writing about why I started learning programming and how I started. </summary></entry><entry><title type="html">My first post!</title><link href="http://localhost:4000/my-blog/jekyll/update/2021/06/05/my-first-post.html" rel="alternate" type="text/html" title="My first post!" /><published>2021-06-05T22:21:00+08:00</published><updated>2021-06-05T22:21:00+08:00</updated><id>http://localhost:4000/my-blog/jekyll/update/2021/06/05/my-first-post</id><content type="html" xml:base="http://localhost:4000/my-blog/jekyll/update/2021/06/05/my-first-post.html">&lt;h2 id=&quot;welcome-to-my-first-post&quot;&gt;Welcome to my first post!&lt;/h2&gt;
+
+&lt;h4 id=&quot;here-are-the-stuff-ill-be-writing-about-here&quot;&gt;Here are the stuff I’ll be writing about here:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;study journal&lt;/li&gt;
+  &lt;li&gt;study notes to serve as a review&lt;/li&gt;
+  &lt;li&gt;stuff I do to keep myself motivated&lt;/li&gt;
+  &lt;li&gt;I’m studying Japanese too. Maybe I’ll write some post in Japanese to practice.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It’s my first time writing a blog so some of the stuff here are probably boring and ridden with grammar mistakes. This will be a learning experience. (◕ᴗ◕✿)&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Welcome to my first post!</summary></entry></feed>

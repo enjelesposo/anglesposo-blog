@@ -5,10 +5,14 @@ date:   2021-06-05 22:21:00 +0800
 categories: jekyll update
 ---
 
-Welcome to my first post!
+## Welcome to my first post!
 
-## Here are things I will be writing about
-1. study notes
-2. language review
-3. others
+#### Here are the stuff I'll be writing about here:
+- study journal
+- study notes to serve as a review
+- stuff I do to keep myself motivated
+- I'm studying Japanese too. Maybe I'll write some post in Japanese to practice.
+
+It's my first time writing a blog so some of the stuff here are probably boring and ridden with grammar mistakes. This will be a learning experience. (◕ᴗ◕✿)
+
 
