@@ -43,7 +43,7 @@ I'm still beginner but here are the resources I used to start my journey as a se
 - r/learnjavascript
 
 <br/>
-#### Also checkout this free course in coursera about learning:
+#### If you're interested go and check out this free course in coursera about learning:
 [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
 
 <br/>
