@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "My first post!"
+title:  "Welcome to my blog!"
 date:   2021-06-05 22:21:00 +0800
 categories: jekyll update
 ---
 
-## Welcome to my first post!
+## Welcome to my blog!
 
-#### Here are the stuff I'll be writing about here:
+#### Here are the stuff I'll be writing about:
 - study journal
 - study notes to serve as a review
 - stuff I do to keep myself motivated
