@@ -43,11 +43,12 @@ I'm still beginner but here are the resources I used to start my journey as a se
 - r/learnjavascript
 
 <br/>
+
 #### If you're interested go and check out this free course in coursera about learning:
 [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
 
 <br/>
-Just like every journey there will be hardships. Learning a new skill can be frustrating, heck, I even asked myself if I'm smart enough to learn programming, but seeing myself improve day by day is enough to keep me going. I know I'm still on the early stage of my journey and I know that there will be even more harships that will come my way, but what matters is being persistent in learning. Take a rest if you need to, but never quit. Be patient with the results and one day you'll be surprised how far you've come.
+Just like every journey there will be hardships. Learning a new skill can be frustrating, heck, I even asked myself if I'm smart enough to learn programming, but seeing myself improve day by day is enough to keep me going. I know I'm still on the early stage of my journey and I know that there will be even more harships that'll come my way, but what matters is being persistent in learning. Take a rest if you need to, but never quit. Be patient with the results and one day you'll be surprised on how far you've come.
 
 <br/>
 # Learning never stops!
