@@ -1,2 +1,3 @@
 # my blog
-My blog built with Jekyll and GitHub Pages.
+### Built with Jekyll and GitHub Pages.
+I'll be writing about my study jorney here.
