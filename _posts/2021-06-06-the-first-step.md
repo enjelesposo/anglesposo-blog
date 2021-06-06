@@ -5,15 +5,11 @@ date:   2021-06-06 09:48:00 +0800
 categories: jekyll update
 ---
 
-In this post I'll be writing about why I started learning programming and how I started. 
-
-　You're probably wondering why I thought my journey to web development was unexpected. As a background, I studied civil engineering student who is unhappy about my major, so I dropped out. Then, following aunt's advice, I took a care-giving course so I can go to Canada and start all over again. Well.. guess what.. That plan got canceled too, and now I'm stuck at home with no idea what to do. That's when I started self-studying as a hobby. I started with learning Japanese. A year passed and I've met good people through language exchange, but I still wanted to learn more, and that's when I got the idea to start learning programming. 
-
-I've always been interested in coding, and I always find building stuff fun. Why not build something with code, and that's when I decided to start learning. Equipped with the discipline and good study habits I acquired in a year of self-studying, I took my first step. I asked for advice all over the internet and someone advised me to start with web development.
+I've always been interested in coding, and I always find building stuff fun. Why not build something with code? I asked myself, and that's when I decided wanted to start learning. Equipped with the discipline and good study habits I acquired in a year of self-studying Japanese, I took my first step. I asked for advice all over the internet and someone advised me to start with web development.
 <br/>
 <br/>
 
-I'm still beginner but  here are the resources I used to start my journey as a self-taught web developer:
+I'm still beginner but here are the resources I used to start my journey as a self-taught web developer:
 
 ### The Roadmap: 
 [https://roadmap.sh/frontend](https://roadmap.sh/frontend)
