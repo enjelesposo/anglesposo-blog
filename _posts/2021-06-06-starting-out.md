@@ -15,14 +15,21 @@ If you want to start learning web development but you're broke and can't afford 
 ### Learn Git:
 [Git Command-Line Fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4)
 
-### Free online courses:
+### Free online courses:https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/
 - [freeCodeCamp](https://www.freecodecamp.org/learn)
 - [The Odin Project](https://www.theodinproject.com/)
 
 ### Resources
-- [javascript.info](https://www.google.com/search?channel=fs&client=ubuntu&q=javascript+info)
-- [w3schools:](https://www.w3schools.com/)
-- [javascript documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+- #### HTML:
+  - [HTML cheat sheet](https://developer.mozilla.org/en-US/docs/Learn/HTML/Cheatsheet)
+  - [HTML semantic cheat sheet](https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/)
+- #### CSS:
+  - [CSS Tricks](https://css-tricks.com/)
+- #### Javascript:
+  - [javascript.info](https://www.google.com/search?channel=fs&client=ubuntu&q=javascript+info)
+  - [w3schools:](https://www.w3schools.com/)
+  - [javascript documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### Youtube Channels: 
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
