@@ -15,7 +15,7 @@ If you want to start learning web development but you're broke and can't afford 
 ### Learn Git:
 [Git Command-Line Fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4)
 
-### Free online courses:https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/
+### Free online courses:
 - [freeCodeCamp](https://www.freecodecamp.org/learn)
 - [The Odin Project](https://www.theodinproject.com/)
 
