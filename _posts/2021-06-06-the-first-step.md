@@ -1,15 +1,13 @@
 ---
 layout: post
-title:  "The First Step"
+title:  "Starting Out"
 date:   2021-06-06 09:48:00 +0800
 categories: jekyll update
 ---
 
-I've always been interested in coding, and I always find building stuff fun. Why not build something with code? I asked myself, and that's when I decided wanted to start learning. Equipped with the discipline and good study habits I acquired in a year of self-studying Japanese, I took my first step. I asked for advice all over the internet and someone advised me to start with web development.
+If you want to start learning web development but you're broke and can't afford coding bootcamps like me, here are some of the resources I used when I was starting out. I got a lot of advice from random strangers on the internet, so I want to write it all here just in case someone may find it useful.
 <br/>
 <br/>
-
-I'm still beginner but here are the resources I used to start my journey as a self-taught web developer:
 
 ### The Roadmap: 
 [https://roadmap.sh/frontend](https://roadmap.sh/frontend)
@@ -29,6 +27,7 @@ I'm still beginner but here are the resources I used to start my journey as a se
 ### Youtube Channels: 
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [Coder Coder](https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ)
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
 
@@ -36,6 +35,7 @@ I'm still beginner but here are the resources I used to start my journey as a se
 - freeCodeCamp forum
 - The Odin Project's discord channel
 - Stack Overflow
+- dev.to
 
 ### Subreddits:
 - r/learnprogramming
@@ -51,4 +51,4 @@ I'm still beginner but here are the resources I used to start my journey as a se
 Just like every journey there will be hardships. Learning a new skill can be frustrating, heck, I even asked myself if I'm smart enough to learn programming, but seeing myself improve day by day is enough to keep me going. I know I'm still on the early stage of my journey and I know that there will be even more harships that'll come my way, but what matters is being persistent in learning. Take a rest if you need to, but never quit. Be patient with the results and one day you'll be surprised on how far you've come.
 
 <br/>
-# Learning never stops!
+# 加油‼
