@@ -19,7 +19,7 @@ If you want to start learning web development but you're broke and can't afford 
 - [freeCodeCamp](https://www.freecodecamp.org/learn)
 - [The Odin Project](https://www.theodinproject.com/)
 
-### Resources
+### Resources:
 
 - #### HTML:
   - [HTML cheat sheet](https://developer.mozilla.org/en-US/docs/Learn/HTML/Cheatsheet)
