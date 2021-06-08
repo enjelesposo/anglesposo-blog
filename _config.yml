@@ -21,7 +21,7 @@
 title: Angelica Esposo
 email: anglesposo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'll be talking about random stuff here.
+  I'll be writing about random stuff here.
 baseurl: "/anglesposo-blog" # the subpath of your site, e.g. /blog
 url: "https://github.com/enjelesposo" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 45degEnjel
