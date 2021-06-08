@@ -44,7 +44,7 @@ If you want to start learning web development but you're broke and can't afford 
 
 <br/>
 
-#### If you're interested go and check out this free course in coursera about learning:
+#### If you're interested, go and check out this free coursera course about learning:
 [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
 
 <br/>
